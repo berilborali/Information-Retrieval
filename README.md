@@ -1,4 +1,4 @@
-# Information-Retreival
+# Information-Retrieval
 
 #Marco Najem 
 
