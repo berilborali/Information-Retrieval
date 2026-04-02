@@ -1,5 +1,5 @@
-# CSI-4107-HW1
+# Information-Retreival
 
-#Marco Najem 300009101
+#Marco Najem 
 
 #Beril Borali
